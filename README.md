@@ -1,3 +1,0 @@
-# cursoAngular
-asdasd
-primer commit
